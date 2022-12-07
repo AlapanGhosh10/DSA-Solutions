@@ -23,9 +23,9 @@ public:
     }
 };
 
-*************
+/*************
  Explanation
-*************
+*************/
 /* Create a unordered_map<sorted string, index in res>
 count variable to keep track of the last index inserted in res
 Only one for loop to traverse all elements {
